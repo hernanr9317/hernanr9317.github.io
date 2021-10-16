@@ -2455,3 +2455,14 @@ input, select, textarea {
 					}
 
 	}
+
+	.btnportfolio {
+		font-size: 18px;
+		padding: 5%;
+	}
+
+	.imgportfolio {
+		height: 290px;
+		width: 250px;
+		object-fit: cover;
+	}
